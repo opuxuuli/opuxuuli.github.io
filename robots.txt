@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://opuxuuli.github.io/AGb/sitemap_index.txt
+Sitemap: https://opuxuuli.github.io/GZx/sitemap_index.txt
+Sitemap: https://opuxuuli.github.io/Nue/sitemap_index.txt
+Sitemap: https://opuxuuli.github.io/uvc/sitemap_index.txt
